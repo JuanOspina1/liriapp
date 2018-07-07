@@ -1,0 +1,70 @@
+undefined
+Tweet: Sun May 27 18:13:40 +0000 2018
+Tweet Text: I can also do your taxes
+-------
+undefined
+Tweet: Sun May 27 18:13:56 +0000 2018
+Tweet Text: j-life to the next life
+-------
+undefined
+Tweet: Sun May 27 18:13:27 +0000 2018
+Tweet Text: im a lawyer
+-------
+undefined
+Tweet: Sun May 27 18:12:34 +0000 2018
+Tweet Text: oy vey
+-------
+Artist: Tim Johnston
+Song name: Insert Song Name Here
+Album Name: Metal on the Inside, Vol. 2
+Preview Link: https://p.scdn.co/mp3-preview/703e6e4f1aeb3f21185e4717fe5ee1d4404bbed3?cid=4686a47e985e41a485e9a036883b57ea
+[object Object]------------------------------ begin ------------------------------
+Title: Guardians
+Year: 2009
+Imdb Rating: 2.9
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English
+Plot: Twilight Cove, a small forgotten town, is besieged by hideous creatures summoned into our dimension. It's only a matter of time before the army of creatures attacks the rest of civilization...
+Actors: Chris Bell, Benjamin Budd, Tylan Canady, Eric Cherney
+------------------------------ end ------------------------------
+[object Object]------------------------------ begin ------------------------------
+Title: Guardians
+Year: 2009
+Imdb Rating: 2.9
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English
+Plot: Twilight Cove, a small forgotten town, is besieged by hideous creatures summoned into our dimension. It's only a matter of time before the army of creatures attacks the rest of civilization...
+Actors: Chris Bell, Benjamin Budd, Tylan Canady, Eric Cherney
+------------------------------ end ------------------------------
+[object Object]------------------------------ begin ------------------------------
+Title: Guardians
+Year: 2009
+Imdb Rating: 2.9
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English
+Plot: Twilight Cove, a small forgotten town, is besieged by hideous creatures summoned into our dimension. It's only a matter of time before the army of creatures attacks the rest of civilization...
+Actors: Chris Bell, Benjamin Budd, Tylan Canady, Eric Cherney
+------------------------------ end ------------------------------
+[object Object]Artist: Anna Kendrick
+Song name: Get Back Up Again
+Album Name: TROLLS (Original Motion Picture Soundtrack)
+Preview Link: https://p.scdn.co/mp3-preview/a2b309280893a79c10830bdf280ea85c6de45a4c?cid=4686a47e985e41a485e9a036883b57ea
+[object Object]undefined
+Tweet: Sun May 27 18:13:56 +0000 2018
+Tweet Text: j-life to the next life
+-------
+undefined
+Tweet: Sun May 27 18:13:40 +0000 2018
+Tweet Text: I can also do your taxes
+-------
+undefined
+Tweet: Sun May 27 18:13:27 +0000 2018
+Tweet Text: im a lawyer
+-------
+undefined
+Tweet: Sun May 27 18:12:34 +0000 2018
+Tweet Text: oy vey
+-------

@@ -1,0 +1,20 @@
+{
+  "name": "liri_app_hw",
+  "version": "1.0.0",
+  "description": "Week 10 (LIRI Bot) Assignment",
+  "main": "keys.js",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "fs": "0.0.1-security",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.87.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
